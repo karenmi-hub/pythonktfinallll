@@ -1,0 +1,8 @@
+PyQt5==5.15.10
+PyQt5-sip==12.13.0
+requests==2.31.0
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+pydantic==2.5.3
+httpx==0.26.0
+python-dotenv==1.0.1
